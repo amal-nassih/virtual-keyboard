@@ -5,11 +5,12 @@ creating a virtual keyboard using python
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+i choose to implement a code that give us a virtual keyboard which can be used only by opening our webcam and moving our hands.
+I learned i lot in this project , working with python libraries as well as how machine learning work
+
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies & tools
