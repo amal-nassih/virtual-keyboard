@@ -14,8 +14,8 @@ I learned i lot in this project :
 * landmark detection ...
 
 ### Project Image
-![Image text](./p.png)
-<img src="./p.png" alt="Alt text" title="Optional title">
+![Image text](https://github.com/amal-nassih/virtual-keyboard/blob/main/p.PNG)
+
 ## Technologies & tools
 ***
 A list of technologies used within the project:
