@@ -1,5 +1,5 @@
 # virtual-keyboard
-creating a virtual keyboard using python
+creating a virtual keyboard using python and Cvzone
 
 ## Table of Contents
 1. [General Info](#general-info)
