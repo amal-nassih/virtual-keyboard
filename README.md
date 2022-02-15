@@ -13,8 +13,8 @@ I learned i lot in this project :
 * working with python libraries 
 * landmark detection ...
 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+### Project Image
+![Image text](./p.png)
 ## Technologies & tools
 ***
 A list of technologies used within the project:
