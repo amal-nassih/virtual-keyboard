@@ -9,7 +9,7 @@ creating a virtual keyboard using python and Cvzone
 ### General Info
 ***
 I choose to implement a code that give us a virtual keyboard which can be used by opening our webcam and moving our hands.
-I learned i lot in this project :
+I learned a lot in this project :
 * working with python libraries 
 * landmark detection ...
 
